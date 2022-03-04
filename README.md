@@ -1,2 +1,2 @@
 # Analog-Clock
-Simple Analog Clock Using JavaScript, HTML And CSS
+Analog Clock Using JavaScript, HTML And CSS
